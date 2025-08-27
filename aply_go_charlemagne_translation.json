@@ -1,0 +1,37 @@
+{
+	"languages": ["Français", "English"],
+	"translation": [
+	  {
+			"Français": "Chargement de l'application APLyGo-Charlemagne...",
+			"English": "Loading APLyGo-Charlemagne..."
+		},
+		{
+ 		  "Français": "Glisser-déposer le fichier",
+			"English": "Drag-and-drop the file"
+		},
+		{
+			"Français": "Rotation automatique d'image",
+			"English": "Automatic image rotation"
+		},
+		{
+		  "Français": "Remarques et recommandations :",
+			"English": "Notes and recommendations :"
+		},
+		{
+			"Français": "- ⚠️ La rotation automatique doit être appliquée uniquement aux images mal orientées, car elle ralentit le traitement des images déjà correctement orientées",
+			"English": "- ⚠️ Automatic rotation should be applied only to misoriented images as it slows down processing for images that are already correctly oriented"
+		},
+		{
+		  "Français": "- Les résultats d'APLyGo-Charlemagne doivent être vérifiés",
+			"English": "- APLyGo-Charlemagne results should be verified"
+		},
+		{
+			"Français": "- Aucun résultat ni données ne sont stockés dans APLyGo-Charlemagne",
+			"English": "- No result and data are saved in APLyGo-Charlemagne"
+		},
+		{
+		  "Français": "Définir la langue de APLyGo-Charlemagne",
+			"English": "Set APLyGo-Charlemagne language"
+    }
+	]
+}
