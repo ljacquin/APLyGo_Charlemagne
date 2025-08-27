@@ -6,8 +6,8 @@
 			"English": "Loading APLyGo-Charlemagne..."
 		},
 		{
- 		  "Français": "Glisser-déposer le fichier",
-			"English": "Drag-and-drop the file"
+ 		  "Français": "Coller (Ctrl + V) une capture d'écran dans APLyGo-Charlemagne",
+			"English": "Paste a screenshot into APLyGo-Charlemagne (Ctrl + V)"
 		},
 		{
 			"Français": "Rotation automatique d'image",

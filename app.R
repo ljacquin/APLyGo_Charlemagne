@@ -105,10 +105,12 @@ ui <- secure_app(
           HTML('<center><img src="logo_moju_ai.png" width="180" height="180"></header>'),
           column(width = 1.5, offset = 10, style = "padding:6px;"),
           titlePanel(h5(p(" "), align = "left")),
-          
+          h4(p(strong(i18n$t("Coller (Ctrl + V) une capture d'écran dans APLyGo-Charlemagne")))), 
+          HTML("<br>"),
+          HTML("<br>"),
           radioButtons(
             inputId = "rot_img_auto",
-            label = h4(strong(i18n$t("Rotation automatique d'image"))),
+            label = h5(strong(i18n$t("Rotation automatique d'image"))),
             choices = c("Non-auto" = "FALSE", "Auto" = "TRUE"),
             selected = "FALSE",
             inline = TRUE
